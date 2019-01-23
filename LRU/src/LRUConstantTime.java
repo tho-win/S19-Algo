@@ -24,7 +24,12 @@ public class LRUConstantTime {
      */
     public int get(int key) {
         // TODO: implement this method
-        return 0;
+        if (hmap.containsKey(key)){
+            Node node = hmap.get(key);
+            LRULinkedList.moveNodeToHead(node);
+            return node.value;
+        }
+        return -1;
     }
 
     /**
@@ -35,6 +40,11 @@ public class LRUConstantTime {
      */
     public void put(int key, int value) {
         // TODO: implement this method
+        Node node = hmap.get(key);
+        if (node == null){
+            if (LRULinkedList.size == LRULinkedList.capacity) hmap.remove(LRULinkedList.tail.key);
+            hmap.put(key, LRULinkedList.add(key, value));
+        }
     }
 
     public static void main(String[] args) {

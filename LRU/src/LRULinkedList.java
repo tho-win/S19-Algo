@@ -19,6 +19,25 @@ public class LRULinkedList {
      */
     public Node add(int key, int value) {
         // TODO: implement this method
+        Node temp = new Node(key, value);
+        if (size == 0){
+           // temp.next = null;
+            //temp.previous = null;
+            head = tail = temp;
+            size++;
+        }
+        else {
+            head.previous = temp;
+            temp.next = head;
+          //  temp.previous = null;
+            head = temp;
+            size++;
+            if (size > capacity){
+                tail = tail.previous;
+                tail.next = null;
+                size--;
+            }
+        }
         return head;
     }
 
@@ -27,16 +46,39 @@ public class LRULinkedList {
      */
     public void deleteTail(){
         // TODO: implement this method
+        if (head == tail)
+            head = tail = null;
+        else {
+            tail = tail.previous;
+            tail.next = null;
+        }
+        size--;
     }
 
     /**
-     * Get the value of the current node.
+     * Get the node that corresponds to the passed in key.
      * @param key
-     * @return value at key
+     * @return node that matches key
      */
-    public Node getValue(int key){
+    public Node getNode(int key){
         // TODO: implement this method
-        return head;
+        if(head == null){
+            return null;
+        }
+
+        if(head.key == key){
+            return head;
+        }
+
+        Node itr = head.next;
+        while (itr != null){
+            if (itr.key == key) {
+                moveNodeToHead(itr);
+                return itr;
+            }
+            itr = itr.next;
+        }
+        return itr;
     }
 
     /**
@@ -45,10 +87,44 @@ public class LRULinkedList {
      */
     public void moveNodeToHead(Node node){
         // TODO: implement this method
+        if (node == head){
+                return;
+        }
+
+        if (size == 1) return;
+
+       /* if (tail == node){
+            deleteTail();
+        }
+        else {
+            node.next.previous = node.previous;
+            node.previous.next = node.next;
+            size --;
+        }*/
+        node.previous.next = node.next;
+        if (node != tail) {
+            node.next.previous = node.previous;
+        }
+        else tail = tail.previous;
+        size--;
+        add(node.key, node.value);
+
+       /* node.next = head;
+        head.previous = node;
+        head = node;*/
     }
+
+    /*public String toString(){
+        Node itr = head;
+        StringBuffer buff = new StringBuffer();
+        while (itr != null){
+            buff.append(itr.key);
+            buff.append(" ");
+            itr = itr.next;
+        }
+        return buff.toString();
+    }*/
 
     public static void main(String[] args) {
-
     }
-
 }

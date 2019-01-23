@@ -1,5 +1,5 @@
 /**
- * This is node class that you s hould use in your double
+ * This is node class that you should use in your double
  * You should not modify this node class.
  * Linked list.
  */

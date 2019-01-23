@@ -10,7 +10,21 @@ public class FriendCircles {
      */
     public int findCircleNum(int[][] M) {
         // TODO: implement this method
-        return 0;
+        int circle = 0;
+        parent = new int[M.length];
+        rank = new byte[M.length];
+        for (int i = 0; i < parent.length; i++){
+            parent[i] = i;
+        }
+        for (int i = 0; i < parent.length; i++){
+            for (int j = i; j < parent.length; j++){
+                if (M[i][j] == 1) union(i, j);
+            }
+        }
+        for (int i = 0; i < parent.length; i++){
+            if (i == parent[i]) circle++;
+        }
+        return circle;
     }
 
 
@@ -23,7 +37,11 @@ public class FriendCircles {
      */
     public int find(int p) {
         // TODO: implement this method
-        return 0;
+        while (p != parent[p]){
+            parent[p] = parent[parent[p]];
+            p = parent[p];
+        }
+        return p;
     }
 
 
@@ -39,7 +57,7 @@ public class FriendCircles {
      */
     public boolean connected(int p, int q) {
         // TODO: implement this method
-        return false;
+        return find(p) == find(q);
     }
 
     /**
@@ -53,10 +71,22 @@ public class FriendCircles {
      */
     public void union(int p, int q) {
         // TODO: implement this method
+        int i = find(p);
+        int j = find(q);
+        if (rank[i] < rank[j]){
+            parent[i] = j;
+            rank[j]++;
+        }
+        else{
+            parent[j] = i;
+            rank[i]++;
+        }
     }
 
     public static void main(String[] args) {
-
+        int[][] M = new int[3][3];
+        FriendCircles f = new FriendCircles();
+        f.findCircleNum(M);
     }
 
 }
