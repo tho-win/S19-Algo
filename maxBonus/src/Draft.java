@@ -16,16 +16,26 @@ public class Draft {
      * @return the number of ways to partition the candidates into two fair teams
      */
     public static long numWays(List<Integer> ranks) {
-        int sumRanks = 0;
+        Collections.sort(ranks);
         int totalPlayers = ranks.size();
+        int sumRanks = totalPlayers*(totalPlayers+1)/2;
+        int targetSum = sumRanks/2;
+        int maxPlayers = totalPlayers/2;
         int numWays = 0;
-        List<Integer> teamA;
-        List<Integer> teamB;
-        for (int i = 0; i < ranks.size(); i++){
-            sumRanks += ranks.get(i);
+        int sum = 0;
+        int i = 0;
+        while (true){
+            while ((sum += ranks.get(i++)) < targetSum)
+                if (i >= maxPlayers) break;
         }
 
         return numWays;
+    }
+
+    private static long numWays(List<Integer> ranks, int targetSum, int maxPlayers, int i){
+        if (i == maxPlayers-1) return ranks.get(i);
+        return 
+        }
     }
     /**
      *
