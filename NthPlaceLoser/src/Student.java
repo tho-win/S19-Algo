@@ -9,10 +9,7 @@ public class Student implements Comparable<Student>{
 
     @Override
     public int compareTo(Student o) {
-        if(this.rank > o.rank)
-            return 1;
-        if(this.rank < o.rank)
-            return -1;
+        // TODO implement this yourself
         return 0;
     }
 

@@ -9,8 +9,8 @@
         <module name="BirdScooters" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="BirdScooters" target="1.5" />
+    <bytecodeTargetLevel target="8">
+      <module name="BirdScooters" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

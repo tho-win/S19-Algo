@@ -1,3 +1,4 @@
+
 public class BirdScooters {
 
     Node root;
@@ -5,7 +6,7 @@ public class BirdScooters {
     /**
      * Constructor
      */
-    public BirdScooters() {
+    public BirdScooters(){
         root = null;
     }
 
@@ -17,19 +18,13 @@ public class BirdScooters {
      */
     public boolean add(Node scooter) {
         // TODO implement this yourself
-        return add(scooter, root);
-    }
-
-    private boolean add(Node scooter, Node itr){
-        if (itr.equals(scooter)) return false;
-        if (itr == null) {
-            itr = scooter;
+        if (root == null){
+            root = scooter;
             return true;
         }
-        else if (Node.compare(scooter, itr, itr.level) < 0) add(scooter, itr.left);
-        else if (Node.compare(scooter, itr, itr.level) > 0) add(scooter, itr.right);
-        return true;
+        return root.add(scooter);
     }
+
     /**
      * Find the closest scooter to the provided location
      *
@@ -38,26 +33,38 @@ public class BirdScooters {
      */
     public Node closestPoint(Node location) {
         // TODO implement this yourself
-        if (Node.compare(location, root, 0) < 0) return closestPoint(location, root.left, root);
-        else if (Node.compare(location, root, 0) > 0) return closestPoint(location, root.right, root);
+        /*
+        Node champion = null;
+        if (Node.compare(location, root, 0) < 0) champion = closestPoint(location, root.left, root);
+        else if (Node.compare(location, root, 0) > 0) champion = closestPoint(location, root.right, root);
+        if (Distance(champion, location) < Distance(root, location)) return champion;
         else return root;
+        */
+        return closestPoint(location, root, root);
     }
 
     private Node closestPoint(Node location, Node itr, Node champion) {
         if (itr == null) return champion;
-        else if (Node.compare(location, itr, itr.level) < 0){
+        if (itr.compare(location, itr, itr.level) <= 0) {
             if (Distance(itr, location) < Distance(champion, location)) champion = itr;
-            return closestPoint(location, itr.left, champion);
+            champion = closestPoint(location, itr.left, champion);
+            if (itr.level % 2 == 1 && (Math.abs(itr.y - location.y) < Distance(champion, location))) {
+                champion = closestPoint(location, itr.right, champion);
+            } else if (itr.level % 2 == 0 && (Math.abs(itr.x - location.x) < Distance(champion, location))) {
+                champion = closestPoint(location, itr.right, champion);
+            }
         }
-        else if (Node.compare(location, itr, itr.level) > 0){
+        else if (itr.compare(location, itr, itr.level) > 0) {
             if (Distance(itr, location) < Distance(champion, location)) champion = itr;
-            return closestPoint(location, itr.left, champion);
+            champion = closestPoint(location, itr.right, champion);
+            if (itr.level % 2 == 1 && (Math.abs(itr.y - location.y) < Distance(champion, location))) {
+                champion = closestPoint(location, itr.left, champion);
+            } else if (itr.level % 2 == 0 && (Math.abs(itr.x - location.x) < Distance(champion, location))) {
+                champion = closestPoint(location, itr.left, champion);
+            }
         }
         return champion;
     }
-    /***************************************************************************
-     *  Helper function for Distance Formula
-     ***************************************************************************/
 
     private double Distance(Node node, Node query) {
         return Math.sqrt(Math.pow(node.x - query.x, 2) + Math.pow(node.y - query.y, 2));
@@ -67,8 +74,8 @@ public class BirdScooters {
      *  Main method
      ***************************************************************************/
 
-    public static void main(String args[]) {
-
+    public static void main(String args[]){
     }
+
 }
 

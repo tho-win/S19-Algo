@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5dd7cc-edcc-41fa-9371-565fc9d14027" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BirdScooters/BirdScooters.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BirdScooters/BirdScooters.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BirdScooters/src/BirdScooters.java" beforeDir="false" afterPath="$PROJECT_DIR$/BirdScooters/src/BirdScooters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BirdScooters/src/BirdScootersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BirdScooters/src/BirdScootersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BirdScooters/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/BirdScooters/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriendCircles/FriendCircles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LRU/LRUConstantTime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LRU/LRULinkedList.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NthPlaceLoser/NthPlaceLoser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NthPlaceLoser/NthPlaceLoser.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NthPlaceLoser/NthPlaceLoser.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoser.java" beforeDir="false" afterPath="$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoserTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NthPlaceLoser/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/NthPlaceLoser/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appleSort/AppleSort.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appleSort/appleSort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/appleSort/appleSort.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxBonus/draft.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LRU/LRUConstantTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LRU/LRULinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LRU/LRUTestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LRU/META-INF/LRU.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LRU/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NthPlaceLoser/NthPlaceLoser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NthPlaceLoser/NthPlaceLoserTestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NthPlaceLoser/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NthPlaceLoser/TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/appleSort/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/appleSort/AppleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/appleSort/AppleSortTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rohitBonus/twitterMap.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BirdScooters/target/" />
@@ -12,13 +43,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Algorithms_Spring_2019_Homework$BirdScootersTest_testVertical.ic" NAME="BirdScootersTest.testVertical Coverage Results" MODIFIED="1550690126794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Algorithms_Spring_2019_Homework" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BirdScooters/src/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="278">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="e#391#392#0" expanded="true" />
                 <element signature="e#447#448#0" expanded="true" />
@@ -30,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BirdScooters/src/BirdScooters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+            <state relative-caret-position="290">
+              <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -39,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BirdScooters/src/BirdScootersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,10 +120,12 @@
         <option value="$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoser.java" />
         <option value="$PROJECT_DIR$/maxBonus/src/Draft.java" />
         <option value="$PROJECT_DIR$/BirdScooters/BirdScooters.java" />
+        <option value="$PROJECT_DIR$/BirdScooters/pom.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/BirdScooters/BirdScooters.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/BirdScooters/src/Node.java" />
         <option value="$PROJECT_DIR$/BirdScooters/src/BirdScootersTest.java" />
-        <option value="$PROJECT_DIR$/BirdScooters/pom.xml" />
-        <option value="$PROJECT_DIR$/BirdScooters/BirdScooters.iml" />
         <option value="$PROJECT_DIR$/BirdScooters/src/BirdScooters.java" />
       </list>
     </option>
@@ -97,8 +136,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -106,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,7 +155,7 @@
             <path>
               <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="appleSort" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
@@ -130,19 +168,45 @@
               <item name="BirdScooters" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="BirdScooters" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="BirdScooters" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="FriendCircles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="FriendCircles" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550615448452" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550717279576" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -161,28 +225,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner">
-    <configuration name="AppleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AppleSort" />
-      <module name="appleSort" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="appleSort" />
+  <component name="RunManager" selected="JUnit.BirdScootersTest">
+    <configuration name="BirdScootersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BirdScooters" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AppleSortTest" />
+      <option name="MAIN_CLASS_NAME" value="BirdScootersTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppleSortTest.testUnevenBasketsII" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="appleSort" />
+    <configuration name="BirdScootersTest.testDiagonal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BirdScooters" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AppleSortTest" />
-      <option name="METHOD_NAME" value="testUnevenBasketsII" />
+      <option name="MAIN_CLASS_NAME" value="BirdScootersTest" />
+      <option name="METHOD_NAME" value="testDiagonal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BirdScootersTest.testHorizontal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BirdScooters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BirdScootersTest" />
+      <option name="METHOD_NAME" value="testHorizontal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BirdScootersTest.testLattice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BirdScooters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BirdScootersTest" />
+      <option name="METHOD_NAME" value="testLattice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BirdScootersTest.testRandom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BirdScooters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BirdScootersTest" />
+      <option name="METHOD_NAME" value="testRandom" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -197,33 +284,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthPlaceLoserTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="NthPlaceLoser" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NthPlaceLoserTestCase" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="NthPlaceLoser" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestRunner" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRunner" />
-        <item itemvalue="JUnit.NthPlaceLoserTestCase" />
-        <item itemvalue="JUnit.AppleSortTest" />
-        <item itemvalue="JUnit.AppleSortTest.testUnevenBasketsII" />
-        <item itemvalue="Application.AppleSort" />
+        <item itemvalue="JUnit.BirdScootersTest" />
+        <item itemvalue="JUnit.BirdScootersTest.testRandom" />
+        <item itemvalue="JUnit.BirdScootersTest.testLattice" />
+        <item itemvalue="JUnit.BirdScootersTest.testDiagonal" />
+        <item itemvalue="JUnit.BirdScootersTest.testHorizontal" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -254,47 +326,76 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppleSortTest_testUnevenBasketsII - 2019.01.28 at 23h 55m 02s.xml">
-      <configuration name="AppleSortTest.testUnevenBasketsII" configurationId="JUnit" />
+    <history-entry file="BirdScootersTest_testVertical - 2019.02.20 at 20h 36m 14s.xml">
+      <configuration name="BirdScootersTest.testVertical" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppleSortTest_testUnevenBasketsII - 2019.01.28 at 23h 55m 06s.xml">
-      <configuration name="AppleSortTest.testUnevenBasketsII" configurationId="JUnit" />
+    <history-entry file="BirdScootersTest_testVertical - 2019.02.20 at 20h 36m 47s.xml">
+      <configuration name="BirdScootersTest.testVertical" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppleSortTest - 2019.01.28 at 23h 55m 17s.xml">
-      <configuration name="AppleSortTest" configurationId="JUnit" />
+    <history-entry file="BirdScootersTest_testHorizontal - 2019.02.20 at 20h 36m 55s.xml">
+      <configuration name="BirdScootersTest.testHorizontal" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppleSortTest - 2019.01.28 at 23h 56m 32s.xml">
-      <configuration name="AppleSortTest" configurationId="JUnit" />
+    <history-entry file="BirdScootersTest_testDiagonal - 2019.02.20 at 20h 37m 03s.xml">
+      <configuration name="BirdScootersTest.testDiagonal" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2019.02.01 at 20h 10m 45s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="BirdScootersTest_testLattice - 2019.02.20 at 20h 37m 24s.xml">
+      <configuration name="BirdScootersTest.testLattice" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NthPlaceLoserTestCase - 2019.02.01 at 20h 11m 19s.xml">
-      <configuration name="NthPlaceLoserTestCase" configurationId="JUnit" />
+    <history-entry file="BirdScootersTest_testRandom - 2019.02.20 at 20h 37m 33s.xml">
+      <configuration name="BirdScootersTest.testRandom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2019.02.01 at 20h 13m 22s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="BirdScootersTest_testRandom - 2019.02.20 at 21h 01m 08s.xml">
+      <configuration name="BirdScootersTest.testRandom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2019.02.01 at 20h 14m 22s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="BirdScootersTest - 2019.02.20 at 21h 01m 20s.xml">
+      <configuration name="BirdScootersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2019.02.01 at 20h 14m 57s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="BirdScootersTest - 2019.02.20 at 21h 05m 20s.xml">
+      <configuration name="BirdScootersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRunner - 2019.02.01 at 20h 17m 51s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="BirdScootersTest - 2019.02.20 at 21h 19m 36s.xml">
+      <configuration name="BirdScootersTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48433736" visible="true" weight="0.29756796" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7145422" visible="true" weight="0.20171674" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.51566267" side_tool="true" visible="true" weight="0.29756796" />
+      <window_info id="Structure" order="5" sideWeight="0.28366247" side_tool="true" weight="0.30615166" />
+      <window_info id="Favorites" order="6" sideWeight="0.28545782" side_tool="true" weight="0.19599427" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35783133" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49759036" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.20963855" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7163375" visible="true" weight="0.30615166" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.28366247" side_tool="true" visible="true" weight="0.30615166" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -306,7 +407,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -315,7 +416,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished work" />
@@ -370,16 +471,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LRU/LRULinkedList.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LRU/LRUConstantTime.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LRU/LRULinkedList.txt" />
+    <entry file="file://$PROJECT_DIR$/LRU/LRUConstantTime.txt" />
     <entry file="file://$PROJECT_DIR$/LRU/src/TestRunner.java" />
     <entry file="file://$PROJECT_DIR$/LRU/src/LRUTestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -402,27 +495,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FriendCircles/src/FriendCircles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LRU/src/LRUConstantTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FriendCircles/src/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="140" selection-start-line="140" selection-end-line="140" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -433,35 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="491" selection-start-line="491" selection-end-line="491" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appleSort/src/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appleSort/src/AppleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1867#1868#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appleSort/src/AppleSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -482,13 +529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoserTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoserTestCase.java" />
     <entry file="file://$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -516,27 +557,133 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BirdScooters/pom.xml">
+    <entry file="file://$PROJECT_DIR$/BirdScooters/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/appleSort/AppleSort.txt" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/javafx-src.zip!/com/sun/javafx/tk/quantum/EmbeddedSceneDnD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appleSort/AppleSort.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="600">
+          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/appleSort/appleSort.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/appleSort/src/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appleSort/src/AppleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appleSort/src/AppleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1826#1827#0" expanded="true" />
+            <element signature="e#1867#1868#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FriendCircles/src/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FriendCircles/src/FriendCircles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BirdScooters/BirdScooters.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FriendCircles/src/FCTestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/FailOnTimeout.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+          <folding>
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#5951#6086#0" expanded="true" />
+            <element signature="e#6085#6086#0" expanded="true" />
+            <element signature="e#6484#6648#0" expanded="true" />
+            <element signature="e#6647#6648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BirdScooters/src/BirdScootersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="105">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -545,8 +692,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BirdScooters/src/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="278">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="e#391#392#0" expanded="true" />
             <element signature="e#447#448#0" expanded="true" />
@@ -554,17 +701,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BirdScooters/BirdScooters.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BirdScooters/src/BirdScooters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        <state relative-caret-position="290">
+          <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
         </state>
       </provider>
     </entry>

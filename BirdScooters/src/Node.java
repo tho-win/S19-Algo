@@ -18,6 +18,14 @@ public class Node {
         this.level = level;
     }
 
+    public Node(Node other){
+        this.x = other.x;
+        this.y = other.y;
+        this.left = other.left;
+        this.right = other.right;
+        this.level = other.level;
+    }
+
     public String toString() {
         return "(" + this.x + "," + this.y + ")";
     }
@@ -36,4 +44,22 @@ public class Node {
         Node n = (Node)o;
         return Math.abs(x - n.x) < 0.00000001 && Math.abs(y - n.y) < 0.00000001;
     }
+
+    public boolean add(Node scooter){
+        if (compare(scooter, this, this.level) <= 0){
+            if (this.left == null) {
+                this.left = scooter;
+                this.left.level = this.level + 1;
+            }
+            else return this.left.add(scooter);
+        }
+        else if (compare(scooter, this, this.level) > 0) {
+            if (this.right == null) {
+                this.right = scooter;
+                this.right.level = this.level + 1;
+            } else return this.right.add(scooter);
+        }
+        return true;
+    }
+
 }

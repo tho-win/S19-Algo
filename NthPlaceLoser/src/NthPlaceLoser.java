@@ -4,6 +4,7 @@ public class NthPlaceLoser {
 
     public static Student NthPlaceLoser(Student[] aList, int N) {
         // TODO implement this yourself
+<<<<<<< HEAD
         N = aList.length - N - 1;
         int lo = 0, hi = aList.length-1;
         while (hi > lo) {
@@ -13,6 +14,9 @@ public class NthPlaceLoser {
             else return aList[N];
         }
         return aList[N];
+=======
+        return aList[0];
+>>>>>>> 5c98dfa9e13514522b3d12946cab2338fa10a7e3
     }
 
     private static int partition(Student[] a, int lo, int hi){
@@ -57,7 +61,10 @@ public class NthPlaceLoser {
         a[j] = swap;
     }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5c98dfa9e13514522b3d12946cab2338fa10a7e3
     /***************************************************************************
      *  Main method
      ***************************************************************************/
