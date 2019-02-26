@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5dd7cc-edcc-41fa-9371-565fc9d14027" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BirdScooters/BirdScooters.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BirdScooters/BirdScooters.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BirdScooters/src/BirdScooters.java" beforeDir="false" afterPath="$PROJECT_DIR$/BirdScooters/src/BirdScooters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BirdScooters/src/BirdScootersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BirdScooters/src/BirdScootersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BirdScooters/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/BirdScooters/src/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FriendCircles/FriendCircles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LRU/LRUConstantTime.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LRU/LRULinkedList.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NthPlaceLoser/NthPlaceLoser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NthPlaceLoser/NthPlaceLoser.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NthPlaceLoser/NthPlaceLoser.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoser.java" beforeDir="false" afterPath="$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoserTestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NthPlaceLoser/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/NthPlaceLoser/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appleSort/AppleSort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appleSort/appleSort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/appleSort/appleSort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maxBonus/draft.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LRU/LRUConstantTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LRU/LRULinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LRU/LRUTestRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LRU/META-INF/LRU.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LRU/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NthPlaceLoser/NthPlaceLoser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NthPlaceLoser/NthPlaceLoserTestCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NthPlaceLoser/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NthPlaceLoser/TestRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/appleSort/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/appleSort/AppleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/appleSort/AppleSortTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rohitBonus/twitterMap.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BirdScooters/target/" />
@@ -50,37 +19,12 @@
     <favorites_list name="Algorithms_Spring_2019_Homework" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BirdScooters/src/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BirdScooters/src/BirdScooters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BirdScooters/src/BirdScootersTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="250">
+              <caret line="50" column="62" lean-forward="true" selection-start-line="50" selection-start-column="62" selection-end-line="50" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -136,7 +80,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
@@ -168,40 +112,16 @@
               <item name="BirdScooters" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="BirdScooters" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="BirdScooters" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="FriendCircles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="FriendCircles" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550717279576" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551141162061" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -361,7 +281,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7145422" visible="true" weight="0.20171674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7145422" visible="true" weight="0.21030043" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -379,7 +299,6 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.20963855" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -388,6 +307,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297568" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7163375" visible="true" weight="0.30615166" />
@@ -703,8 +623,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BirdScooters/src/BirdScooters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="59" column="44" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
+        <state relative-caret-position="250">
+          <caret line="50" column="62" lean-forward="true" selection-start-line="50" selection-start-column="62" selection-end-line="50" selection-end-column="62" />
         </state>
       </provider>
     </entry>
