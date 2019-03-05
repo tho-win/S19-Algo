@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5dd7cc-edcc-41fa-9371-565fc9d14027" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DDRRobot/src/DepthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DDRRobot/DDRRobot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DDRRobot/DDRRobotTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DDRRobot/DepthFirstSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DDRRobot/Digraph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/rohitBonus/twitterMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/rohitBonus/twitterPublicTestCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cryptarithms/Cryptarithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cryptarithms/src/Cryptarithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cryptarithms/src/CryptarithmsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DDRRobot/DDRRobot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DDRRobot/DDRRobot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDRRobot/src/DDRRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/DDRRobot/src/DDRRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DDRRobot/DDRRobotTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DDRRobot/DDRRobotTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BirdScooters/target/" />
@@ -30,43 +27,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DDRRobot/src/Digraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-789">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DDRRobot/src/DepthFirstSearch.java">
+        <entry file="file://$PROJECT_DIR$/Cryptarithms/src/Cryptarithms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="276">
+              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DDRRobot/src/DDRRobot.java">
+        <entry file="file://$PROJECT_DIR$/Cryptarithms/src/CryptarithmsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1425">
+              <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Cryptarithms/Cryptarithms.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -113,10 +94,12 @@
         <option value="$PROJECT_DIR$/BirdScooters/src/BirdScootersTest.java" />
         <option value="$PROJECT_DIR$/BirdScooters/src/BirdScooters.java" />
         <option value="$PROJECT_DIR$/DDRRobot/src/TestRunner.java" />
-        <option value="$PROJECT_DIR$/DDRRobot/DDRRobot.iml" />
         <option value="$PROJECT_DIR$/DDRRobot/src/DepthFirstSearch.java" />
-        <option value="$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java" />
         <option value="$PROJECT_DIR$/DDRRobot/src/DDRRobot.java" />
+        <option value="$PROJECT_DIR$/DDRRobot/DDRRobot.iml" />
+        <option value="$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java" />
+        <option value="$PROJECT_DIR$/Cryptarithms/src/CryptarithmsTest.java" />
+        <option value="$PROJECT_DIR$/Cryptarithms/src/Cryptarithms.java" />
       </list>
     </option>
   </component>
@@ -126,7 +109,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
@@ -136,7 +119,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,32 +129,28 @@
             <path>
               <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
               <item name="appleSort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="DDRRobot" type="462c0819:PsiDirectoryNode" />
+              <item name="Cryptarithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="DDRRobot" type="462c0819:PsiDirectoryNode" />
+              <item name="Cryptarithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551295556417" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551756711837" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -205,28 +183,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DDRRobotTest (1)">
-    <configuration name="DDRRobot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DDRRobot" />
-      <module name="DDRRobot" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BirdScootersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BirdScooters" />
+  <component name="RunManager" selected="JUnit.CryptarithmsTest">
+    <configuration name="CryptarithmsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cryptarithms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BirdScootersTest" />
+      <option name="MAIN_CLASS_NAME" value="CryptarithmsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DDRRobotTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DDRRobot" />
+    <configuration name="CryptarithmsTest.planets4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cryptarithms" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DDRRobotTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="CryptarithmsTest" />
+      <option name="METHOD_NAME" value="planets4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CryptarithmsTest.planets5Null" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cryptarithms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CryptarithmsTest" />
+      <option name="METHOD_NAME" value="planets5Null" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CryptarithmsTest.randomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cryptarithms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CryptarithmsTest" />
+      <option name="METHOD_NAME" value="randomTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CryptarithmsTest.runtimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cryptarithms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CryptarithmsTest" />
+      <option name="METHOD_NAME" value="runtimeTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -237,26 +239,6 @@
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="PARAMETERS" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DDRRobotTest.simpleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DDRRobot" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DDRRobotTest" />
-      <option name="METHOD_NAME" value="simpleTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DDRRobotTest.simpleTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DDRRobot" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DDRRobotTest" />
-      <option name="METHOD_NAME" value="simpleTest2" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -285,19 +267,19 @@
       <item itemvalue="JUnit.TestRunner" />
       <item itemvalue="JUnit.DDRRobotTest" />
       <item itemvalue="JUnit.LRUTestRunner" />
-      <item itemvalue="JUnit.BirdScootersTest" />
-      <item itemvalue="Application.DDRRobot" />
-      <item itemvalue="JUnit.DDRRobotTest.simpleTest" />
-      <item itemvalue="JUnit.DDRRobotTest.simpleTest2" />
-      <item itemvalue="JUnit.DDRRobotTest (1)" />
+      <item itemvalue="JUnit.CryptarithmsTest.planets4" />
+      <item itemvalue="JUnit.CryptarithmsTest.planets5Null" />
+      <item itemvalue="JUnit.CryptarithmsTest.randomTest" />
+      <item itemvalue="JUnit.CryptarithmsTest.runtimeTest" />
+      <item itemvalue="JUnit.CryptarithmsTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DDRRobotTest (1)" />
-        <item itemvalue="JUnit.DDRRobotTest.simpleTest2" />
-        <item itemvalue="JUnit.DDRRobotTest.simpleTest" />
-        <item itemvalue="Application.DDRRobot" />
-        <item itemvalue="JUnit.BirdScootersTest" />
+        <item itemvalue="JUnit.CryptarithmsTest" />
+        <item itemvalue="JUnit.CryptarithmsTest.runtimeTest" />
+        <item itemvalue="JUnit.CryptarithmsTest.randomTest" />
+        <item itemvalue="JUnit.CryptarithmsTest.planets5Null" />
+        <item itemvalue="JUnit.CryptarithmsTest.planets4" />
       </list>
     </recent_temporary>
   </component>
@@ -333,42 +315,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DDRRobotTest_simpleTest - 2019.02.27 at 14h 06m 39s.xml">
-      <configuration name="DDRRobotTest.simpleTest" configurationId="JUnit" />
+    <history-entry file="CryptarithmsTest_randomTest - 2019.03.04 at 22h 17m 05s.xml">
+      <configuration name="CryptarithmsTest.randomTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DDRRobotTest_simpleTest - 2019.02.27 at 14h 10m 10s.xml">
-      <configuration name="DDRRobotTest.simpleTest" configurationId="JUnit" />
+    <history-entry file="CryptarithmsTest_randomTest - 2019.03.04 at 22h 17m 38s.xml">
+      <configuration name="CryptarithmsTest.randomTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DDRRobotTest_simpleTest - 2019.02.27 at 14h 10m 35s.xml">
-      <configuration name="DDRRobotTest.simpleTest" configurationId="JUnit" />
+    <history-entry file="CryptarithmsTest_randomTest - 2019.03.04 at 22h 18m 50s.xml">
+      <configuration name="CryptarithmsTest.randomTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DDRRobotTest_simpleTest - 2019.02.27 at 14h 13m 01s.xml">
-      <configuration name="DDRRobotTest.simpleTest" configurationId="JUnit" />
+    <history-entry file="CryptarithmsTest_runtimeTest - 2019.03.04 at 22h 19m 03s.xml">
+      <configuration name="CryptarithmsTest.runtimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DDRRobotTest_simpleTest - 2019.02.27 at 14h 14m 15s.xml">
-      <configuration name="DDRRobotTest.simpleTest" configurationId="JUnit" />
+    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 19m 25s.xml">
+      <configuration name="CryptarithmsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DDRRobotTest_simpleTest - 2019.02.27 at 14h 16m 42s.xml">
-      <configuration name="DDRRobotTest.simpleTest" configurationId="JUnit" />
+    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 21m 25s.xml">
+      <configuration name="CryptarithmsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DDRRobotTest_simpleTest - 2019.02.27 at 14h 19m 33s.xml">
-      <configuration name="DDRRobotTest.simpleTest" configurationId="JUnit" />
+    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 22m 29s.xml">
+      <configuration name="CryptarithmsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DDRRobotTest_simpleTest - 2019.02.27 at 14h 20m 02s.xml">
-      <configuration name="DDRRobotTest.simpleTest" configurationId="JUnit" />
+    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 30m 21s.xml">
+      <configuration name="CryptarithmsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DDRRobotTest_simpleTest2 - 2019.02.27 at 14h 20m 50s.xml">
-      <configuration name="DDRRobotTest.simpleTest2" configurationId="JUnit" />
+    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 30m 57s.xml">
+      <configuration name="CryptarithmsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DDRRobotTest_(1) - 2019.02.27 at 14h 21m 40s.xml">
-      <configuration name="DDRRobotTest (1)" configurationId="JUnit" />
+    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 31m 40s.xml">
+      <configuration name="CryptarithmsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7145422" visible="true" weight="0.21316166" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7145422" visible="true" weight="0.21888413" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -377,7 +359,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.28545782" side_tool="true" weight="0.19599427" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35783133" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42048192" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49759036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,27 +413,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge https://github.com/awh4kc/Algorithms_Spring_2019_Homework&#10;&#10;# Conflicts:&#10;#&#9;LRU/src/LRUTestRunner.java" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="265" selection-start-line="265" selection-end-line="265" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="747" selection-start-line="747" selection-end-line="747" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="410" selection-start-line="410" selection-end-line="410" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Launcher.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -503,13 +464,6 @@
     <entry file="file://$PROJECT_DIR$/appleSort copy/src/Apple.java" />
     <entry file="file://$PROJECT_DIR$/appleSort copy/src/AppleSortTest.java" />
     <entry file="file://$PROJECT_DIR$/appleSort copy/src/AppleSort.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="491" selection-start-line="491" selection-end-line="491" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NthPlaceLoser/src/TestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -703,16 +657,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DDRRobot/src/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-end-line="132" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DDRRobot/src/TestRunner.java" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9053" />
@@ -725,23 +670,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DDRRobot/DDRRobot.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DDRRobot/src/Digraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-789">
+        <state>
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DDRRobot/src/DDRRobot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
+        <state relative-caret-position="975">
           <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -749,17 +687,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java">
+    <entry file="file://$PROJECT_DIR$/DDRRobot/src/DepthFirstSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="315">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DDRRobot/src/DepthFirstSearch.java">
+    <entry file="file://$PROJECT_DIR$/DDRRobot/DDRRobot.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="300">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cryptarithms/Cryptarithms.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="417" selection-start-line="417" selection-end-line="417" />
+          <folding>
+            <element signature="e#15459#15460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cryptarithms/src/CryptarithmsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1425">
+          <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cryptarithms/src/Cryptarithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
         </state>
       </provider>
     </entry>

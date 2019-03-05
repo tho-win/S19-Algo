@@ -1,5 +1,4 @@
-//package strongComponents;
-
+//package StrongComponent
 import org.junit.Test;
 
 import java.util.ArrayList;
@@ -66,6 +65,7 @@ public class DDRRobotTest {
 
     }
 
+
     /**
      * __________________
      * | →  |   ↓  | →  |
@@ -124,7 +124,5 @@ public class DDRRobotTest {
         }
 
     }
-
-
 
 }
