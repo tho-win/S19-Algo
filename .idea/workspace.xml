@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5dd7cc-edcc-41fa-9371-565fc9d14027" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cryptarithms/Cryptarithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptarithms/src/Cryptarithms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cryptarithms/src/CryptarithmsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDRRobot/DDRRobot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DDRRobot/DDRRobot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DDRRobot/DDRRobotTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DDRRobot/DDRRobotTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FasterThanAHashMap/src/OptimizedTST.java" beforeDir="false" afterPath="$PROJECT_DIR$/FasterThanAHashMap/src/OptimizedTST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NDimensionalClusters/src/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/NDimensionalClusters/src/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NDimensionalClusters/src/NDemensionalClusters.java" beforeDir="false" afterPath="$PROJECT_DIR$/NDimensionalClusters/src/NDemensionalClusters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NDimensionalClusters/src/NDemensionalTestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/NDimensionalClusters/src/NDemensionalTestCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NDimensionalClusters/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/NDimensionalClusters/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxBonus/src/Draft.java" beforeDir="false" afterPath="$PROJECT_DIR$/maxBonus/src/Draft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxBonus/src/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/maxBonus/src/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rohitBonus/twitterMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rohitBonus/twitterMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rohitBonus/twitterPublicTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rohitBonus/twitterPublicTestCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rohitBonus/src/TestPrivate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rohitBonus/src/twitterMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/rohitBonus/src/twitterMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rohitBonus/src/twitterPublicTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/rohitBonus/src/twitterPublicTestCase.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BirdScooters/target/" />
@@ -28,26 +33,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Cryptarithms/src/Cryptarithms.java">
+        <entry file="file://$PROJECT_DIR$/maxBonus/src/Draft.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+            <state relative-caret-position="270">
+              <caret line="201" column="35" lean-forward="true" selection-start-line="201" selection-start-column="35" selection-end-line="201" selection-end-column="35" />
+              <folding>
+                <element signature="e#8520#8521#0" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cryptarithms/src/CryptarithmsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1425">
-              <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cryptarithms/Cryptarithms.iml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -82,9 +76,7 @@
         <option value="$PROJECT_DIR$/appleSort/src/AppleSort.java" />
         <option value="$PROJECT_DIR$/appleSort/src/AppleSortTest.java" />
         <option value="$PROJECT_DIR$/NthPlaceLoser/src/TestRunner.java" />
-        <option value="$PROJECT_DIR$/maxBonus/src/TestRunner.java" />
         <option value="$PROJECT_DIR$/NthPlaceLoser/src/NthPlaceLoser.java" />
-        <option value="$PROJECT_DIR$/maxBonus/src/Draft.java" />
         <option value="$PROJECT_DIR$/BirdScooters/BirdScooters.java" />
         <option value="$PROJECT_DIR$/BirdScooters/pom.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
@@ -100,6 +92,19 @@
         <option value="$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java" />
         <option value="$PROJECT_DIR$/Cryptarithms/src/CryptarithmsTest.java" />
         <option value="$PROJECT_DIR$/Cryptarithms/src/Cryptarithms.java" />
+        <option value="$PROJECT_DIR$/rohitBonus/src/twitterPublicTestCase.java" />
+        <option value="$PROJECT_DIR$/NDimensionalClusters/src/Graph.java" />
+        <option value="$PROJECT_DIR$/NDimensionalClusters/src/Point.java" />
+        <option value="$PROJECT_DIR$/NDimensionalClusters/src/Edge.java" />
+        <option value="$PROJECT_DIR$/NDimensionalClusters/src/NDemensionalTestCases.java" />
+        <option value="$PROJECT_DIR$/NDimensionalClusters/src/NDemensionalClusters.java" />
+        <option value="$PROJECT_DIR$/rohitBonus/src/twitterMap.java" />
+        <option value="$PROJECT_DIR$/rohitBonus/src/TestPrivate.java" />
+        <option value="$PROJECT_DIR$/FasterThanAHashMap/src/FasterThanAHashMapTest.java" />
+        <option value="$PROJECT_DIR$/FasterThanAHashMap/src/OptimizedTST.java" />
+        <option value="$PROJECT_DIR$/maxBonus/src/TestPrivate.java" />
+        <option value="$PROJECT_DIR$/maxBonus/src/Draft.java" />
+        <option value="$PROJECT_DIR$/maxBonus/src/TestRunner.java" />
       </list>
     </option>
   </component>
@@ -110,7 +115,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="714" />
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -118,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,28 +133,46 @@
             <path>
               <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="appleSort" type="462c0819:PsiDirectoryNode" />
+              <item name="camBonus" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="Cryptarithms" type="462c0819:PsiDirectoryNode" />
+              <item name="camBonus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="Cryptarithms" type="462c0819:PsiDirectoryNode" />
+              <item name="maxBonus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="maxBonus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="rohitBonus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms_Spring_2019_Homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms_Spring_2019_Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="rohitBonus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551756711837" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555514858715" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -183,56 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CryptarithmsTest">
-    <configuration name="CryptarithmsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Cryptarithms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CryptarithmsTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CryptarithmsTest.planets4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Cryptarithms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CryptarithmsTest" />
-      <option name="METHOD_NAME" value="planets4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CryptarithmsTest.planets5Null" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Cryptarithms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CryptarithmsTest" />
-      <option name="METHOD_NAME" value="planets5Null" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CryptarithmsTest.randomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Cryptarithms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CryptarithmsTest" />
-      <option name="METHOD_NAME" value="randomTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CryptarithmsTest.runtimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Cryptarithms" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CryptarithmsTest" />
-      <option name="METHOD_NAME" value="runtimeTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestRunner.testPickConsistencyLargeRange">
     <configuration name="DDRRobotTest" type="JUnit" factoryName="JUnit">
       <module name="DDRRobot" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -252,6 +225,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestPrivate.testNumWaysRuntime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maxBonus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPrivate" />
+      <option name="METHOD_NAME" value="testNumWaysRuntime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestRunner" type="JUnit" factoryName="JUnit">
       <module name="DDRRobot" />
       <option name="PACKAGE_NAME" value="" />
@@ -263,23 +246,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestRunner.testNumWaysCorrectness" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maxBonus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="METHOD_NAME" value="testNumWaysCorrectness" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.testPickConsistency" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maxBonus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="METHOD_NAME" value="testPickConsistency" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.testPickConsistencyLargeRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maxBonus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="METHOD_NAME" value="testPickConsistencyLargeRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.testPickConsistencyLargeShuffle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maxBonus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="METHOD_NAME" value="testPickConsistencyLargeShuffle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.TestRunner" />
       <item itemvalue="JUnit.DDRRobotTest" />
       <item itemvalue="JUnit.LRUTestRunner" />
-      <item itemvalue="JUnit.CryptarithmsTest.planets4" />
-      <item itemvalue="JUnit.CryptarithmsTest.planets5Null" />
-      <item itemvalue="JUnit.CryptarithmsTest.randomTest" />
-      <item itemvalue="JUnit.CryptarithmsTest.runtimeTest" />
-      <item itemvalue="JUnit.CryptarithmsTest" />
+      <item itemvalue="JUnit.TestRunner.testNumWaysCorrectness" />
+      <item itemvalue="JUnit.TestPrivate.testNumWaysRuntime" />
+      <item itemvalue="JUnit.TestRunner.testPickConsistency" />
+      <item itemvalue="JUnit.TestRunner.testPickConsistencyLargeShuffle" />
+      <item itemvalue="JUnit.TestRunner.testPickConsistencyLargeRange" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CryptarithmsTest" />
-        <item itemvalue="JUnit.CryptarithmsTest.runtimeTest" />
-        <item itemvalue="JUnit.CryptarithmsTest.randomTest" />
-        <item itemvalue="JUnit.CryptarithmsTest.planets5Null" />
-        <item itemvalue="JUnit.CryptarithmsTest.planets4" />
+        <item itemvalue="JUnit.TestRunner.testPickConsistencyLargeRange" />
+        <item itemvalue="JUnit.TestRunner.testPickConsistencyLargeShuffle" />
+        <item itemvalue="JUnit.TestRunner.testPickConsistency" />
+        <item itemvalue="JUnit.TestRunner.testNumWaysCorrectness" />
+        <item itemvalue="JUnit.TestPrivate.testNumWaysRuntime" />
       </list>
     </recent_temporary>
   </component>
@@ -315,42 +338,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CryptarithmsTest_randomTest - 2019.03.04 at 22h 17m 05s.xml">
-      <configuration name="CryptarithmsTest.randomTest" configurationId="JUnit" />
+    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 29m 19s.xml">
+      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CryptarithmsTest_randomTest - 2019.03.04 at 22h 17m 38s.xml">
-      <configuration name="CryptarithmsTest.randomTest" configurationId="JUnit" />
+    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 29m 43s.xml">
+      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CryptarithmsTest_randomTest - 2019.03.04 at 22h 18m 50s.xml">
-      <configuration name="CryptarithmsTest.randomTest" configurationId="JUnit" />
+    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 31m 06s.xml">
+      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CryptarithmsTest_runtimeTest - 2019.03.04 at 22h 19m 03s.xml">
-      <configuration name="CryptarithmsTest.runtimeTest" configurationId="JUnit" />
+    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 41m 04s.xml">
+      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 19m 25s.xml">
-      <configuration name="CryptarithmsTest" configurationId="JUnit" />
+    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 50m 44s.xml">
+      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 21m 25s.xml">
-      <configuration name="CryptarithmsTest" configurationId="JUnit" />
+    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 51m 38s.xml">
+      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 22m 29s.xml">
-      <configuration name="CryptarithmsTest" configurationId="JUnit" />
+    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 54m 57s.xml">
+      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 30m 21s.xml">
-      <configuration name="CryptarithmsTest" configurationId="JUnit" />
+    <history-entry file="TestRunner_testPickConsistency - 2019.04.17 at 11h 20m 50s.xml">
+      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 30m 57s.xml">
-      <configuration name="CryptarithmsTest" configurationId="JUnit" />
+    <history-entry file="TestRunner_testPickConsistencyLargeShuffle - 2019.04.17 at 11h 21m 09s.xml">
+      <configuration name="TestRunner.testPickConsistencyLargeShuffle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CryptarithmsTest - 2019.03.04 at 22h 31m 40s.xml">
-      <configuration name="CryptarithmsTest" configurationId="JUnit" />
+    <history-entry file="TestRunner_testPickConsistencyLargeRange - 2019.04.17 at 11h 21m 15s.xml">
+      <configuration name="TestRunner.testPickConsistencyLargeRange" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7145422" visible="true" weight="0.21888413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7145422" visible="true" weight="0.2746781" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -359,8 +382,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.28545782" side_tool="true" weight="0.19599427" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42048192" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49759036" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32409638" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.386747" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -413,67 +436,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge https://github.com/awh4kc/Algorithms_Spring_2019_Homework&#10;&#10;# Conflicts:&#10;#&#9;LRU/src/LRUTestRunner.java" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="202" selection-start-line="202" selection-end-line="202" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LRU/LRULinkedList.txt" />
-    <entry file="file://$PROJECT_DIR$/LRU/LRUConstantTime.txt" />
-    <entry file="file://$PROJECT_DIR$/LRU/src/TestRunner.java" />
-    <entry file="file://$PROJECT_DIR$/LRU/src/LRUTestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1020">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LRU/src/LRULinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LRU/src/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LRU/src/LRUConstantTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appleSort copy/src/Apple.java" />
-    <entry file="file://$PROJECT_DIR$/appleSort copy/src/AppleSortTest.java" />
-    <entry file="file://$PROJECT_DIR$/appleSort copy/src/AppleSort.java" />
-    <entry file="file://$PROJECT_DIR$/NthPlaceLoser/src/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NthPlaceLoser/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -486,13 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maxBonus/src/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -644,19 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maxBonus/src/Draft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-          <folding>
-            <element signature="e#1222#1223#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
-            <element signature="e#1365#1366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DDRRobot/src/TestRunner.java" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -670,44 +612,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DDRRobot/src/Digraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DDRRobot/src/DDRRobot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DDRRobot/src/DepthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DDRRobot/DDRRobot.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,17 +632,166 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cryptarithms/src/CryptarithmsTest.java">
+    <entry file="file://$PROJECT_DIR$/NDimensionalClusters/src/Graph.java" />
+    <entry file="file://$PROJECT_DIR$/NDimensionalClusters/src/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1425">
-          <caret line="77" column="9" lean-forward="true" selection-start-line="77" selection-start-column="9" selection-end-line="77" selection-end-column="9" />
+        <state relative-caret-position="165">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NDimensionalClusters/src/NDemensionalClusters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NDimensionalClusters/src/NDemensionalTestCases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDRRobot/src/Digraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="104" column="5" selection-start-line="96" selection-start-column="4" selection-end-line="104" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NDimensionalClusters/src/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding>
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cryptarithms/src/Cryptarithms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="20">
           <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cryptarithms/src/CryptarithmsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3516">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDRRobot/src/DDRRobotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rohitBonus/src/TestPrivate.java" />
+    <entry file="file://$PROJECT_DIR$/DDRRobot/src/DepthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDRRobot/src/DDRRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rohitBonus/src/twitterPublicTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rohitBonus/src/twitterMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="51" column="119" selection-start-line="51" selection-start-column="119" selection-end-line="51" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3535#3536#0" expanded="true" />
+            <element signature="e#3606#3607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FasterThanAHashMap/src/StringNoHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FasterThanAHashMap/src/TST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="169" column="7" lean-forward="true" selection-start-line="169" selection-start-column="7" selection-end-line="169" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FasterThanAHashMap/src/FasterThanAHashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="198" column="48" lean-forward="true" selection-start-line="198" selection-start-column="48" selection-end-line="198" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FasterThanAHashMap/src/OptimizedTST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="228" lean-forward="true" selection-start-line="228" selection-end-line="228" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camBonus/src/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxBonus/src/TestPrivate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxBonus/src/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="96" column="42" lean-forward="true" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxBonus/src/Draft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="201" column="35" lean-forward="true" selection-start-line="201" selection-start-column="35" selection-end-line="201" selection-end-column="35" />
+          <folding>
+            <element signature="e#8520#8521#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

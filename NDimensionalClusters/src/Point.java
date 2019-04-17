@@ -3,14 +3,13 @@ import java.util.Arrays;
 public class Point {
 
     public double[] cordinates;
-
+    public boolean marked;
 
     /**
      * Constructor
      * @param cordinates vector of cordinates example [x, y, z]
      */
-    public Point(double[] cordinates){
-        this.cordinates = cordinates;
+    public Point(double[] cordinates){ this.cordinates = cordinates;
     }
 
 

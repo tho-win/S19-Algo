@@ -27,6 +27,7 @@ public class NDemensionalTestCases {
             ndc.add(p4);
 
             double sum = p1.distance(p4) + p2.distance(p3) + p1.distance(p2);
+
             assertTrue(Math.round(ndc.getSum(1)) == Math.round(sum));
 
             double sum2 = p1.distance(p4) + p2.distance(p3);

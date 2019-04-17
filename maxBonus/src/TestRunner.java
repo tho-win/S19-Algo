@@ -38,21 +38,27 @@ public class TestRunner {
 
     // ----- Pick Tests ----- //
 
-    @Test(timeout = 10000)
+    @Test//(timeout = 10000)
     public void testPickConsistency() {
         for (int n = 1; n <= PICK_CHECK_CONSISTENCY_UP_TO; n++) {
             int teamA = 0, teamB = 0;
             int numA = 0, numB = 0;
             List<Integer> ranks = getRanks(n);
-            for (int i = 0; i < ranks.size(); i++)
+            //System.out.println("ranks "+ranks);
+            for (int i = 0; i < ranks.size(); i++) {
+                //System.out.println("i " + i);
                 if (!Draft.pick(ranks, i)) {
+                    //System.out.println("teamA ");
                     teamA += ranks.get(i);
-                    numA ++;
-                }
-                else {
+                    numA++;
+                } else {
+                    //System.out.println("teamB ");
                     teamB += ranks.get(i);
-                    numB ++;
+                    numB++;
                 }
+            }
+            //System.out.println("teamA sum " + teamA);
+            //System.out.println("teamB sum " + teamB);
             assertTrue(String.format("Uneven teams for %s.", ranks.toString()), Math.abs(numA - numB) <= 1);
             int best = ((ranks.size() - 1) % 4 < 2) ? 1 : 0;
             assertEquals(String.format("Unfair teams for %s.", ranks.toString()), best, Math.abs(teamA - teamB));

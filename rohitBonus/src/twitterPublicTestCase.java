@@ -23,7 +23,6 @@ public class twitterPublicTestCase {
         example.addFollower(6, 5);
 
         List<Integer> ans = example.findKPeople();
-
         List<Integer> ansReal = new ArrayList<Integer>();
         ansReal.add(4);
         ansReal.add(5);
