@@ -1,4 +1,6 @@
-public class Road  {
+import sun.nio.cs.ext.MacHebrew;
+
+public class Road implements Comparable {
     private final String id;
     private final City source;
     private final City destination;
@@ -33,5 +35,11 @@ public class Road  {
         return source + " " + destination;
     }
 
-
+    @Override
+    public int compareTo(Object o) {
+        Road other= (Road)o;
+        if (this.tollCost < other.tollCost) return -1;
+        if (this.tollCost > other.tollCost) return 1;
+        return 0;
+    }
 }

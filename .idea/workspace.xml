@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5dd7cc-edcc-41fa-9371-565fc9d14027" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/camBonus/src/TestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camBonus/camBonus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/camBonus/camBonus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camBonus/src/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/camBonus/src/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camBonus/src/Road.java" beforeDir="false" afterPath="$PROJECT_DIR$/camBonus/src/Road.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/camBonus/src/RoadTrip.java" beforeDir="false" afterPath="$PROJECT_DIR$/camBonus/src/RoadTrip.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BirdScooters/target/" />
@@ -23,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camBonus/src/City.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -41,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camBonus/src/Road.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="30">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -50,8 +55,30 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/camBonus/src/RoadTrip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="720">
+              <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camBonus/src/TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="87" column="8" lean-forward="true" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#278#284#0" expanded="true" />
+                <element signature="e#331#338#0" expanded="true" />
+                <element signature="e#440#447#0" expanded="true" />
+                <element signature="e#549#556#0" expanded="true" />
+                <element signature="e#658#665#0" expanded="true" />
+                <element signature="e#767#774#0" expanded="true" />
+                <element signature="e#877#884#0" expanded="true" />
+                <element signature="e#987#994#0" expanded="true" />
+                <element signature="e#1403#1409#0" expanded="true" />
+                <element signature="e#2317#2323#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,6 +144,11 @@
         <option value="$PROJECT_DIR$/maxBonus/src/TestPrivate.java" />
         <option value="$PROJECT_DIR$/maxBonus/src/Draft.java" />
         <option value="$PROJECT_DIR$/maxBonus/src/TestRunner.java" />
+        <option value="$PROJECT_DIR$/camBonus/camBonus.iml" />
+        <option value="$PROJECT_DIR$/camBonus/src/City.java" />
+        <option value="$PROJECT_DIR$/camBonus/src/Road.java" />
+        <option value="$PROJECT_DIR$/camBonus/src/TestRunner.java" />
+        <option value="$PROJECT_DIR$/camBonus/src/RoadTrip.java" />
       </list>
     </option>
   </component>
@@ -135,6 +167,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,12 +191,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555514858715" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556070573636" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -195,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner.testPickConsistencyLargeRange">
+  <component name="RunManager" selected="JUnit.TestRunner.exampleTest">
     <configuration name="DDRRobotTest" type="JUnit" factoryName="JUnit">
       <module name="DDRRobot" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -215,16 +247,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPrivate.testNumWaysRuntime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maxBonus" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestPrivate" />
-      <option name="METHOD_NAME" value="testNumWaysRuntime" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestRunner" type="JUnit" factoryName="JUnit">
       <module name="DDRRobot" />
       <option name="PACKAGE_NAME" value="" />
@@ -232,6 +254,16 @@
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.exampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="camBonus" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner" />
+      <option name="METHOD_NAME" value="exampleTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -277,22 +309,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestRunner" />
       <item itemvalue="JUnit.DDRRobotTest" />
       <item itemvalue="JUnit.LRUTestRunner" />
+      <item itemvalue="JUnit.TestRunner" />
       <item itemvalue="JUnit.TestRunner.testNumWaysCorrectness" />
-      <item itemvalue="JUnit.TestPrivate.testNumWaysRuntime" />
-      <item itemvalue="JUnit.TestRunner.testPickConsistency" />
-      <item itemvalue="JUnit.TestRunner.testPickConsistencyLargeShuffle" />
       <item itemvalue="JUnit.TestRunner.testPickConsistencyLargeRange" />
+      <item itemvalue="JUnit.TestRunner.testPickConsistencyLargeShuffle" />
+      <item itemvalue="JUnit.TestRunner.testPickConsistency" />
+      <item itemvalue="JUnit.TestRunner.exampleTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRunner.exampleTest" />
         <item itemvalue="JUnit.TestRunner.testPickConsistencyLargeRange" />
         <item itemvalue="JUnit.TestRunner.testPickConsistencyLargeShuffle" />
         <item itemvalue="JUnit.TestRunner.testPickConsistency" />
         <item itemvalue="JUnit.TestRunner.testNumWaysCorrectness" />
-        <item itemvalue="JUnit.TestPrivate.testNumWaysRuntime" />
       </list>
     </recent_temporary>
   </component>
@@ -328,42 +360,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 29m 19s.xml">
-      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 29m 43s.xml">
-      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 31m 06s.xml">
-      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 41m 04s.xml">
-      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 50m 44s.xml">
-      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 51m 38s.xml">
-      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner_testPickConsistency - 2019.04.16 at 22h 54m 57s.xml">
-      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner_testPickConsistency - 2019.04.17 at 11h 20m 50s.xml">
-      <configuration name="TestRunner.testPickConsistency" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner_testPickConsistencyLargeShuffle - 2019.04.17 at 11h 21m 09s.xml">
-      <configuration name="TestRunner.testPickConsistencyLargeShuffle" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestRunner_testPickConsistencyLargeRange - 2019.04.17 at 11h 21m 15s.xml">
       <configuration name="TestRunner.testPickConsistencyLargeRange" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner_exampleTest - 2019.04.23 at 19h 16m 18s.xml">
+      <configuration name="TestRunner.exampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner_exampleTest - 2019.04.23 at 20h 46m 59s.xml">
+      <configuration name="TestRunner.exampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner_exampleTest - 2019.04.23 at 20h 49m 15s.xml">
+      <configuration name="TestRunner.exampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner_exampleTest - 2019.04.23 at 21h 39m 33s.xml">
+      <configuration name="TestRunner.exampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner_exampleTest - 2019.04.23 at 21h 40m 27s.xml">
+      <configuration name="TestRunner.exampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner_exampleTest - 2019.04.23 at 21h 42m 35s.xml">
+      <configuration name="TestRunner.exampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner_exampleTest - 2019.04.23 at 21h 47m 55s.xml">
+      <configuration name="TestRunner.exampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner_exampleTest - 2019.04.23 at 21h 48m 09s.xml">
+      <configuration name="TestRunner.exampleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner_exampleTest - 2019.04.23 at 21h 49m 14s.xml">
+      <configuration name="TestRunner.exampleTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7145422" visible="true" weight="0.27825466" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7145422" visible="true" weight="0.2360515" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -372,7 +404,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.28545782" side_tool="true" weight="0.19599427" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32409638" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2807229" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.386747" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -426,19 +458,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge https://github.com/awh4kc/Algorithms_Spring_2019_Homework&#10;&#10;# Conflicts:&#10;#&#9;LRU/src/LRUTestRunner.java" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BirdScooters/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/appleSort/AppleSort.txt" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/javafx-src.zip!/com/sun/javafx/tk/quantum/EmbeddedSceneDnD.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appleSort/src/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -486,13 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BirdScooters/BirdScooters.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -578,13 +594,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9053" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appleSort/appleSort.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="73" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="73" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DDRRobot/DDRRobot.iml">
@@ -758,13 +767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/camBonus/src/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/camBonus/src/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -772,17 +774,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/appleSort/appleSort.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appleSort/src/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BirdScooters/BirdScooters.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camBonus/camBonus.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/camBonus/src/Road.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camBonus/src/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camBonus/src/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="87" column="8" lean-forward="true" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#278#284#0" expanded="true" />
+            <element signature="e#331#338#0" expanded="true" />
+            <element signature="e#440#447#0" expanded="true" />
+            <element signature="e#549#556#0" expanded="true" />
+            <element signature="e#658#665#0" expanded="true" />
+            <element signature="e#767#774#0" expanded="true" />
+            <element signature="e#877#884#0" expanded="true" />
+            <element signature="e#987#994#0" expanded="true" />
+            <element signature="e#1403#1409#0" expanded="true" />
+            <element signature="e#2317#2323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/camBonus/src/RoadTrip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="720">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
         </state>
       </provider>
     </entry>

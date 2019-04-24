@@ -12,10 +12,11 @@ public class City {
         return id;
     }
 
+    public int getIntId() { return Integer.parseInt(id); }
+
     public List<Float> getCoords() {
         return coords;
     }
-
 
     @Override
     public boolean equals(Object obj) {
